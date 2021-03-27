@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mac-ctrl
+- 👀 I’m interested in discord mods/bots
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me, Mac_ctrl#8546 on Discord.
